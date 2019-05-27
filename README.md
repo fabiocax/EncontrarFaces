@@ -1,3 +1,7 @@
+## Tutorial Completo da solução:
+
+https://pydoc.com.br/artigos/reconhecimento-facial-com-python
+
 ## Instalação 
 ```
 $ python3 -m venv EncontrarFaces
