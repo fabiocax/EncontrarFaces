@@ -1,12 +1,13 @@
-Run the code like this:
+## Instalação 
+```
+$ python3 -m venv EncontrarFaces
+$ cd EncontrarFaces/
+$ source bin/activate
+$ git clone https://github.com/leonardogt4/Support-ChatBot.git
+$ cd Support-ChatBot
+$ pip3 install -r requirements.txt 
 
-*python face_detect.py abba.png*
-
-If you want to understand how the code works, the details are here:
-
-https://realpython.com/blog/python/face-recognition-with-python/
-
-
-Update: Now supports OpenCV3. This change has been made by furetosan ( https://github.com/furetosan) and tested on Linux.
-
-To run the OpenCV3 version, run facedetect_cv3.py.
+```
+## Executar
+Importante: Toda vez que sair do shell, deve-se executar o source para ativar o virtualenv: 
+```source bin/activate``` dentro do  ChatBot/.
