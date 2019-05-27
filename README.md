@@ -3,8 +3,8 @@
 $ python3 -m venv EncontrarFaces
 $ cd EncontrarFaces/
 $ source bin/activate
-$ git clone https://github.com/leonardogt4/Support-ChatBot.git
-$ cd Support-ChatBot
+$ git clone https://github.com/fabiocax/EncontrarFaces.git
+$ cd EncontrarFaces
 $ pip3 install -r requirements.txt 
 
 ```
